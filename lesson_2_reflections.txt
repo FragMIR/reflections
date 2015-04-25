@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git creats a .git directory which stores information about repository. You need it to version-control your files.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+I have no idia.

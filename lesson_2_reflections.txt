@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 Git creats a .git directory which stores information about repository. You need it to version-control your files.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 I have no idia.
+How can you use the staging area to make sure you have one commit per logical change?
+You can see the difference betwin prev commit and the stage area.
